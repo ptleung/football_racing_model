@@ -1,0 +1,10 @@
+input_dim = 7
+layer_1_dim = 6
+layer_2_dim = 5
+latent_dim = 4
+seed = 1102
+learning_rate = 1e-4
+patience = 20
+min_delta = 0.001
+batch_size = 32
+epochs = 500
