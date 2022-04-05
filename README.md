@@ -1,4 +1,4 @@
-# football_racing_model
+# Football Racing Model
 This is a case study for applying data science in football racing with uncertainty quantification using Variational AutoEncoder and LSTM Variational AutoEncoder.
 
 ### Model and business case desciption
